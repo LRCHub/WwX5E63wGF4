@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ロジックエージェント",
+  "base_artist": "れをる",
+  "createdAt": "2026-03-10T10:33:00.240044Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロジックエージェント",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_ロジックエージェント_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロジックエージェント",
+      "artist": "niki",
+      "has_synced": true,
+      "path": "select/02_ロジックエージェント_niki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロジックエージェント",
+      "artist": "れをる",
+      "has_synced": false,
+      "path": "select/pl_01_ロジックエージェント_れをる.txt"
+    }
+  ]
+}
